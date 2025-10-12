@@ -10,7 +10,10 @@
 main:
   - title: "Publications"
     url: /publications/
-
+  
+  - title: "Education"
+    url: /#education
+   
   - title: "Talks"
     url: /talks/    
 
@@ -29,5 +32,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
