@@ -27,8 +27,8 @@ author:
   name             : "Ronald Kfouri"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Lebanon"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "ronald.kfouri@gmail.com" 
 
