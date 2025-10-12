@@ -12,23 +12,23 @@ I am a Power Systems Engineer and Researcher driven by the goal of advancing the
 ## Education {#education}
 
 **M.S. in Computer Engineering**, Lebanese American University (LAU), 2023  
-Thesis: A Robust Deep Learning Approach for Distribution System State Estimation with Distributed Generation.
+Thesis: *A Robust Deep Learning Approach for Distribution System State Estimation with Distributed Generation*. [Institutional Repository](https://laur.lau.edu.lb:8443/xmlui/handle/10725/14595)
 
 **B.E. in Electrical Engineering**, Lebanese American University (LAU), 2015  
-Final Project: Data Transmision via Visible Light Communication.
+Final Project: *Data Transmision via Visible Light Communication*.
 
 
 ---
 
 ## Publications {#publications}
 
-- **An Explainable AI Framework for AC Optimal Power Flow**  
+- **An explainable AI framework for AC optimal power flow**  
   *IEEE Access*, 2023.  
   [Paper](https://ieeexplore.ieee.org/document/11177141) | [Code](https://github.com/RonaldKfouri/XAI_for_AC-OPF)
 
-- **A Robust Deep Learning Approach for Distribution System State Estimation with Distributed Generation**  
+- **A robust deep learning approach for distribution system state estimation with distributed generation**  
   *International Transactions on Electrical Energy Systems*, 2025.  
-  [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/2050-7038.2734170) | [code](https://github.com/RonaldKfouri/DSSE-Learn)
+  [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/etep/2734170) | [code](https://github.com/RonaldKfouri/DSSE-Learn)
 
  - **Measurement protection to prevent cyber–physical attacks against power system State Estimation**  
   *International Journal of Critical Infrastructure Protection*, 2023.  
