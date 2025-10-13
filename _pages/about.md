@@ -57,5 +57,13 @@ Final Project: *Data Transmision via Visible Light Communication*.
 - [Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/e6af57e064f84bf4994d2f22170bea54/) offered by NVIDIA
 
 - [Specialization: Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/Z2PLFDK576KV) offered by DeepLearning.AI on Coursera
+
+---
+
+## Professional Service
+Served as a peer reviewer on:
+- *IEEE Access*
+- *Electric Power Systems Research* (Elsevier)
+- *Engineering Applications of Artificial Intelligence* (Elsevier)
   
 
