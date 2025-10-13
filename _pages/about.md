@@ -9,15 +9,6 @@ redirect_from:
 
 I am a Power Systems Engineer and Researcher driven by the goal of advancing the field rather than merely joining the conversation. With experience spanning both industry and academia, I aim to explore how AI enhances power system planning, operation, and control, and how emerging technologies can reshape the future of energy systems.
 
-## Education {#education}
-
-**M.S. in Computer Engineering**, Lebanese American University (LAU), 2023  
-Thesis: *A Robust Deep Learning Approach for Distribution System State Estimation with Distributed Generation*. [Institutional Repository](https://laur.lau.edu.lb:8443/xmlui/handle/10725/14595)
-
-**B.E. in Electrical Engineering**, Lebanese American University (LAU), 2015  
-Final Project: *Data Transmision via Visible Light Communication*.
-
-
 ---
 
 ## Publications {#publications}
@@ -37,6 +28,15 @@ Final Project: *Data Transmision via Visible Light Communication*.
 - **Buffer-aided relaying: a survey on relay selection policies**  
   *IET Communications*, 2021.  
   [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-com.2020.0532)
+
+---
+## Education {#education}
+
+**M.S. in Computer Engineering**, Lebanese American University (LAU), 2023  
+Thesis: *A Robust Deep Learning Approach for Distribution System State Estimation with Distributed Generation*. [Institutional Repository](https://laur.lau.edu.lb:8443/xmlui/handle/10725/14595)
+
+**B.E. in Electrical Engineering**, Lebanese American University (LAU), 2015  
+Final Project: *Data Transmision via Visible Light Communication*.
 
 ---
 
