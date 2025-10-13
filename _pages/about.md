@@ -23,14 +23,14 @@ Final Project: *Data Transmision via Visible Light Communication*.
 ## Publications {#publications}
 
 - **An explainable AI framework for AC optimal power flow**  
-  *IEEE Access*, 2023.  
+  *IEEE Access*, 2025.  
   [Paper](https://ieeexplore.ieee.org/document/11177141) | [Code](https://github.com/RonaldKfouri/XAI_for_AC-OPF)
 
 - **A robust deep learning approach for distribution system state estimation with distributed generation**  
   *International Transactions on Electrical Energy Systems*, 2025.  
   [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/etep/2734170) | [code](https://github.com/RonaldKfouri/DSSE-Learn)
 
- - **Measurement protection to prevent cyber–physical attacks against power system State Estimation**  
+ - **Measurement protection to prevent cyber-physical attacks against power system State Estimation**  
   *International Journal of Critical Infrastructure Protection*, 2023.  
   [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1874548223000562) | [code](https://github.com/RonaldKfouri/ILP-to-Protect-against-SE-Attacks)
 
