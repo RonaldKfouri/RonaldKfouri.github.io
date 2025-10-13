@@ -38,4 +38,22 @@ Final Project: *Data Transmision via Visible Light Communication*.
   *IET Communications*, 2021.  
   [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-com.2020.0532)
 
+---
+
+## Certifications {#certifications}
+
+- [Specialization: Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/DIOAAWWSI126) offered by Google on Coursera
+  
+- [Specialization: Power Electronics](https://www.coursera.org/account/accomplishments/specialization/certificate/SOOKHULE6WY8) offered by University of Colorado Boulder on Coursera
+
+- [Responsible Conduct of Research for Engineers](https://www.citiprogram.org/verify/?w8ddec41f-1400-43e5-96ed-4878cc439313-63899263) offered by CITI Program
+
+- [Specialization: TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/P75L5MJP99WG) offered by DeepLearning.AI on Coursera 
+
+- [Specialization: Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/UUGC4Q7HGYRU) offered by University of Alberta on Coursera
+
+- [Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/e6af57e064f84bf4994d2f22170bea54/) offered by NVIDIA
+
+- [Specialization: Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/Z2PLFDK576KV) offered by DeepLearning.AI on Coursera
+  
 
