@@ -43,6 +43,8 @@ Final Project: *Data Transmision via Visible Light Communication*.
 ## Certifications {#certifications}
 
 - [Specialization: Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/DIOAAWWSI126) offered by Google on Coursera
+
+- [Industrial Power Systems Analysis and Stability](https://www.coursera.org/account/accomplishments/specialization/certificate/VNTIVJ29DX5V) offered by L&T Edutech on Coursera
   
 - [Specialization: Power Electronics](https://www.coursera.org/account/accomplishments/specialization/certificate/SOOKHULE6WY8) offered by University of Colorado Boulder on Coursera
 
