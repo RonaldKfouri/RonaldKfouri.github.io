@@ -60,6 +60,40 @@ Final Project: *Data Transmision via Visible Light Communication*.
 
 ---
 
+## Teaching {#teaching}
+
+### Lebanese American University (LAU) — Byblos Campus  
+**Lab Instructor (2018 – 2024)**  
+
+Courses taught:
+
+- **ELE 443 - Control Systems Lab** (Fall 2021 and Fall 2023)
+  Introduced MATLAB/Simulink experiments on feedback, transient response, and stability.
+  [Syllabus](https://drive.google.com/file/d/your-control-syllabus-id/view?usp=sharing) | [Sample Lecture](https://drive.google.com/file/d/your-control-video-id/view?usp=sharing)
+
+- **ELE 540 - Communication Systems Lab** (Fall 2021)
+  Implemented projects on Barker code, modulation, and digital signal analysis.
+  [Syllabus](https://drive.google.com/file/d/your-comm-syllabus-id/view?usp=sharing) | [Sample Lecture](https://drive.google.com/file/d/your-comm-video-id/view?usp=sharing)
+
+- **ELE 402 - Electronics Lab** (Spring 2019, 2020, and 2021)
+  Focused on transistor characteristics, amplifiers, and operational circuits.
+  [Syllabus](files/ELE 402 - Electronics I Lab - Syllabus 2019.pdf) | [Sample Lecture](https://drive.google.com/file/d/your-electronics-video-id/view?usp=sharing)
+  Solar Tracker Project [Demo Video]()
+
+- **ELE 303 - Electrical Circuits Lab** (Fall 2018, 2019, and 2020)
+  Covered circuit fundamentals, mesh/nodal analysis, and instrumentation.
+  [Syllabus](https://drive.google.com/file/d/your-circuits-syllabus-id/view?usp=sharing) | [Sample Lecture](https://drive.google.com/file/d/your-circuits-video-id/view?usp=sharing)
+
+- **COE 201 - Computer Proficiency** (Fall 2018 and Fall 2019)
+  Covered circuit fundamentals, mesh/nodal analysis, and instrumentation.
+  [Syllabus](https://drive.google.com/file/d/your-circuits-syllabus-id/view?usp=sharing)
+
+  
+- Contributed to curriculum updates and MATLAB/Simulink integration.  
+  
+
+---
+
 ## Professional Service
 Served as a peer reviewer on:
 - *IEEE Access*
