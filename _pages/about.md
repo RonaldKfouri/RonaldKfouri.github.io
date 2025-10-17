@@ -68,13 +68,12 @@ Final Project: *Data Transmision via Visible Light Communication*.
 
 Courses taught:
 
-- **ELE 443 - Control Systems Lab** (Fall 2021 and Fall 2023)
-  Introduced MATLAB/Simulink experiments on feedback, transient response, and stability.
+- **ELE 443 - Control Systems Lab** (Fall 2021 and Fall 2023)  
   Contributed to curriculum updates and MATLAB/Simulink integration. 
-  [Syllabus](files/ELE 443 - Control System Lab - Syllabus 2021.pdf) | [Sample Video Lecture](https://drive.google.com/file/d/your-control-video-id/view?usp=sharing)
+  [Syllabus](files/ELE 443 - Control System Lab - Syllabus 2021.pdf) | [Sample Video Lectures](https://drive.google.com/drive/folders/1fP8Gaycfglnw-lFAR8yxE9mbx2WS6A-e?usp=sharing)
 
 - **ELE 540 - Communication Systems Lab** (Fall 2021)
-  Implemented projects on Barker code, modulation, and digital signal analysis.
+  Supervised projects on Barker code, modulation, and digital signal analysis.
   [Syllabus](files/ELE 540 - Communication Systems Lab - Syllabus 2021.pdf) | [Sample Video Lecture](https://drive.google.com/file/d/your-comm-video-id/view?usp=sharing)
 
 - **ELE 402 - Electronics Lab** (Spring 2019, 2020, and 2021)
