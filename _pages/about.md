@@ -70,20 +70,20 @@ Courses taught:
 
 - **ELE 443 - Control Systems Lab** (Fall 2021 and Fall 2023)  
   Contributed to curriculum updates and MATLAB/Simulink integration.   
-  [Syllabus](files/ELE 443 - Control System Lab - Syllabus 2021.pdf) | [Sample Video Lectures](https://drive.google.com/drive/folders/1fP8Gaycfglnw-lFAR8yxE9mbx2WS6A-e?usp=sharing)
+  [Syllabus](files/ELE 443 - Control System Lab - Syllabus 2021.pdf) | [Sample Video Lectures](https://drive.google.com/drive/folders/1fP8Gaycfglnw-lFAR8yxE9mbx2WS6A-e?usp=sharing&hl=en)
 
 - **ELE 540 - Communication Systems Lab** (Fall 2021)  
   Supervised projects on Barker code, modulation, and digital signal analysis.  
-  [Syllabus](files/ELE 540 - Communication Systems Lab - Syllabus 2021.pdf) | [Sample Video Lecture](https://drive.google.com/drive/folders/1d1vXq5vG32EWQyJHohgirSb2ifsD-WzQ?usp=sharing)
+  [Syllabus](files/ELE 540 - Communication Systems Lab - Syllabus 2021.pdf) | [Sample Video Lecture](https://drive.google.com/drive/folders/1d1vXq5vG32EWQyJHohgirSb2ifsD-WzQ?usp=sharing&hl=en)
 
 - **ELE 402 - Electronics Lab** (Spring 2019, 2020, and 2021)  
   Focused on transistor characteristics, amplifiers, and operational circuits.
-  Supervised a Solar Tracker Project [Demo Video](https://drive.google.com/drive/folders/1eGAnCNHLbCQUuEg7NiAfjPu0ikDi4VoI?usp=sharing)  
-  [Syllabus](files/ELE 402 - Electronics I Lab - Syllabus 2019.pdf) | [Sample Video Lecture](https://drive.google.com/drive/folders/1Gi1BAa47Nx_KeU_2JEoirGiMSU4dVeri?usp=sharing)
+  Supervised a Solar Tracker Project [Demo Video](https://drive.google.com/drive/folders/1eGAnCNHLbCQUuEg7NiAfjPu0ikDi4VoI?usp=sharing&hl=en)  
+  [Syllabus](files/ELE 402 - Electronics I Lab - Syllabus 2019.pdf) | [Sample Video Lecture](https://drive.google.com/drive/folders/1Gi1BAa47Nx_KeU_2JEoirGiMSU4dVeri?usp=sharing&hl=en)
 
 - **ELE 303 - Electrical Circuits Lab** (Fall 2018, 2019, and 2020)  
   Covered circuit fundamentals, mesh/nodal analysis, op-amps, and filters.  
-  [Syllabus](files/ELE 303 - Electrical Circuits Lab - Syllabus 2018.pdf) | [Sample Video Lecture](https://drive.google.com/drive/folders/1qipiRFA7t2kl4z9gNckNidYMGpTAS4q5?usp=sharing)
+  [Syllabus](files/ELE 303 - Electrical Circuits Lab - Syllabus 2018.pdf) | [Sample Video Lecture](https://drive.google.com/drive/folders/1qipiRFA7t2kl4z9gNckNidYMGpTAS4q5?usp=sharing&hl=en)
 
 - **COE 201 - Computer Proficiency** (Fall 2018 and Fall 2019)  
   Introducting basic computer skills to freshman students.  
