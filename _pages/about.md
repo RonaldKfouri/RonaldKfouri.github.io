@@ -85,8 +85,8 @@ Courses taught:
   Covered circuit fundamentals, mesh/nodal analysis, op-amps, and filters.  
   [Syllabus](files/ELE 303 - Electrical Circuits Lab - Syllabus 2018.pdf) | [Sample Video Lecture](https://drive.google.com/drive/folders/1qipiRFA7t2kl4z9gNckNidYMGpTAS4q5?usp=sharing)
 
-- **COE 201 - Computer Proficiency** (Fall 2018 and Fall 2019)
-  Introducting basic computer skills to freshman students.
+- **COE 201 - Computer Proficiency** (Fall 2018 and Fall 2019)  
+  Introducting basic computer skills to freshman students.  
   [Syllabus](files/COE 201 - Computer Proficiency - Syllabus 2019.pdf)
 
 ---
