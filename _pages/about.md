@@ -11,6 +11,16 @@ I am a Power Systems Engineer and Researcher driven by the goal of advancing the
 
 ---
 
+## Research Interests {#interests}
+
+• Renewable energy integration and smart grid operation  
+• Optimization and control of modern power systems  
+• Power system stability and reliability analysis  
+• Integration of emerging technologies (e.g., AI, blockchain) in power system management  
+• Trustworthy and explainable AI for energy applications
+
+---
+
 ## Publications {#publications}
 
 - **An explainable AI framework for AC optimal power flow**  
