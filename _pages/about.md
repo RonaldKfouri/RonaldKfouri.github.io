@@ -19,11 +19,11 @@ I am a Power Systems Engineer and Researcher driven by the goal of advancing the
 
 - **A robust deep learning approach for distribution system state estimation with distributed generation**  
   *International Transactions on Electrical Energy Systems*, 2025.  
-  [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/etep/2734170) | [code](https://github.com/RonaldKfouri/DSSE-Learn)
+  [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/etep/2734170) | [Code](https://github.com/RonaldKfouri/DSSE-Learn)
 
  - **Measurement protection to prevent cyber-physical attacks against power system State Estimation**  
   *International Journal of Critical Infrastructure Protection*, 2023.  
-  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1874548223000562) | [code](https://github.com/RonaldKfouri/ILP-to-Protect-against-SE-Attacks)
+  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1874548223000562) | [Code](https://github.com/RonaldKfouri/ILP-to-Protect-against-SE-Attacks)
 
 - **Buffer-aided relaying: a survey on relay selection policies**  
   *IET Communications*, 2021.  
@@ -86,7 +86,7 @@ Courses taught:
   [Syllabus](files/ELE 303 - Electrical Circuits Lab - Syllabus 2018.pdf) | [Sample Video Lecture](https://drive.google.com/drive/folders/1qipiRFA7t2kl4z9gNckNidYMGpTAS4q5?usp=sharing&hl=en)
 
 - **COE 201 - Computer Proficiency** (Fall 2018 and Fall 2019)    
-  Introducting basic computer skills to freshman students.    
+  Introducing basic computer skills to freshman students.    
   [Syllabus](files/COE 201 - Computer Proficiency - Syllabus 2019.pdf)
 
 ---
@@ -116,9 +116,9 @@ Courses taught:
 ## Workshops {#workshops}
 
 Participated in specialized workshops on photovoltaic technologies and power system design, with emphasis on renewable integration and safety practices:  
-Planning Residential PV-Backup Systems *(Presented by renac.de; hosted by LCEC-Lebanon, 2016)*  
-Earthing and Lightning Protection for PV Systems *(Presented by renac.de; hosted by LCEC-Lebanon, 2016)*  
-Building-Integrated Photovoltaic (BIPV) Solar Technology *(IRI-Lebanon, 2015)*
+• Planning Residential PV-Backup Systems *(Presented by renac.de; hosted by LCEC-Lebanon, 2016)*  
+• Earthing and Lightning Protection for PV Systems *(Presented by renac.de; hosted by LCEC-Lebanon, 2016)*  
+• Building-Integrated Photovoltaic (BIPV) Solar Technology *(IRI-Lebanon, 2015)*
 
 ---
 
@@ -133,7 +133,7 @@ That curiosity later pushed me to start learning German — though I haven’t y
 
 ## Memberships {#memberships}
 
-Registered Electrical Engineer, **Order of Engineers and Architects – Beirut (OEA)** (*April 2016 - Present)*.
+Registered Electrical Engineer, **Order of Engineers and Architects – Beirut (OEA)** (*April 2016 – Present)*.
 
 ---
 
@@ -143,4 +143,3 @@ Served as a peer reviewer on:
 - *Electric Power Systems Research* (Elsevier)
 - *Engineering Applications of Artificial Intelligence* (Elsevier)
   
-
