@@ -113,8 +113,6 @@ Courses taught:
 
 ---
 
----
-
 ## Workshops {#workshops}
 
 Participated in specialized workshops on photovoltaic technologies and power system design, with emphasis on renewable integration and safety practices:  
@@ -126,7 +124,7 @@ Earthing and Lightning Protection for PV Systems *(Presented by renac.de, hosted
 
 ## Memberships {#memberships}
 
-Registered Electrical Engineer, **Order of Engineers and Architects – Beirut (OEA)** since *April 2016*.
+Registered Electrical Engineer, **Order of Engineers and Architects – Beirut (OEA)** (*April 2016 - Present)*.
 
 ---
 
