@@ -91,6 +91,45 @@ Courses taught:
 
 ---
 
+## Experience {#experience}
+
+### Academic and Research Experience
+
+- **Research Assistant**, American University of Beirut (AUB) *(May 2024 – August 2025)*  
+  
+- **Graduate Research Assistant**, Lebanese American University (LAU) *(September 2019 – January 2023)*  
+
+---
+
+### Corporate Experience
+
+- **Energy Engineer**, AC Holding, Lebanon *(March 2016 – May 2018)*  
+  Designed and supervised photovoltaic (PV) systems for residential and corporate projects.  
+  Performed site inspections, technical studies, and system optimization using PVsyst, Helioscope, and AutoCAD.
+
+- **Electrical Engineering Intern**, César Debbas et Fils, Lebanon *(Summer 2014)*  
+  Assisted in electrical design using CAD software.  
+  Gained experience in lighting simulation and documentation.
+
+---
+
+---
+
+## Workshops {#workshops}
+
+Participated in specialized workshops on photovoltaic technologies and power system design, with emphasis on renewable integration and safety practices:  
+Building-Integrated Photovoltaic (BIPV) Solar Technology *(IRI-Lebanon, 2015)* ·  
+Planning Residential PV-Backup Systems *(Presented by renac.de, hosted by LCEC-Lebanon, 2016)* ·  
+Earthing and Lightning Protection for PV Systems *(Presented by renac.de, hosted by LCEC-Lebanon, 2016)*
+
+---
+
+## Memberships {#memberships}
+
+Registered Electrical Engineer, **Order of Engineers and Architects – Beirut (OEA)** since *April 2016*.
+
+---
+
 ## Professional Service
 Served as a peer reviewer on:
 - *IEEE Access*
