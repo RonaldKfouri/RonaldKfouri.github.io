@@ -41,3 +41,7 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* hide the Sitemap block/title in the footer */
+.page__footer .footer__sitemap,
+.page__footer h2.footer__title { display: none !important; }
