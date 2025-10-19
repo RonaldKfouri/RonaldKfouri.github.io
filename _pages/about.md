@@ -116,9 +116,18 @@ Courses taught:
 ## Workshops {#workshops}
 
 Participated in specialized workshops on photovoltaic technologies and power system design, with emphasis on renewable integration and safety practices:  
-Building-Integrated Photovoltaic (BIPV) Solar Technology *(IRI-Lebanon, 2015)* ·  
-Planning Residential PV-Backup Systems *(Presented by renac.de, hosted by LCEC-Lebanon, 2016)* ·  
-Earthing and Lightning Protection for PV Systems *(Presented by renac.de, hosted by LCEC-Lebanon, 2016)*
+Planning Residential PV-Backup Systems *(Presented by renac.de; hosted by LCEC-Lebanon, 2016)*  
+Earthing and Lightning Protection for PV Systems *(Presented by renac.de; hosted by LCEC-Lebanon, 2016)*  
+Building-Integrated Photovoltaic (BIPV) Solar Technology *(IRI-Lebanon, 2015)*
+
+---
+
+## Languages {#languages}
+
+**Arabic, English, French (fluent); German (B1)**  
+
+Fun fact: I read the original 1962 French paper on AC Optimal Power Flow, *Contribution à l'étude du dispatching économique*, to preserve nuances that can get lost in translation.  
+That curiosity later pushed me to start learning German — though I haven’t yet been brave enough to read a technical paper in it... *vielleicht* one day!
 
 ---
 
