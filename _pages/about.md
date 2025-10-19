@@ -51,10 +51,30 @@ Final Project: *Data Transmision via Visible Light Communication*.
 
 ---
 
+## Certifications {#certifications}
+
+- Specialization: [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/DIOAAWWSI126) offered by Google on Coursera
+
+- Specialization: [Industrial Power Systems Analysis and Stability](https://www.coursera.org/account/accomplishments/specialization/certificate/VNTIVJ29DX5V) offered by L&T Edutech on Coursera
+  
+- Specialization: [Power Electronics](https://www.coursera.org/account/accomplishments/specialization/certificate/SOOKHULE6WY8) offered by University of Colorado Boulder on Coursera
+
+- [Responsible Conduct of Research for Engineers](https://www.citiprogram.org/verify/?w8ddec41f-1400-43e5-96ed-4878cc439313-63899263) offered by CITI Program
+
+- Specialization: [TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/P75L5MJP99WG) offered by DeepLearning.AI on Coursera 
+
+<!-- - [Specialization: Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/UUGC4Q7HGYRU) offered by University of Alberta on Coursera -->
+
+- [Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/e6af57e064f84bf4994d2f22170bea54/) offered by NVIDIA
+
+<!-- - [Specialization: Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/Z2PLFDK576KV) offered by DeepLearning.AI on Coursera -->
+
+---
+
 ## Teaching {#teaching}
 
 ### Lebanese American University (LAU) — Byblos Campus  
-**Lab Instructor (2018 – 2024)**  
+**Lab Instructor (September 2018 – January 2024)**  
 
 Courses taught:
 
@@ -105,41 +125,21 @@ Courses taught:
 
 ---
 
-## Certifications {#certifications}
-
-- [Specialization: Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/DIOAAWWSI126) offered by Google on Coursera
-
-- [Specialization: Industrial Power Systems Analysis and Stability](https://www.coursera.org/account/accomplishments/specialization/certificate/VNTIVJ29DX5V) offered by L&T Edutech on Coursera
-  
-- [Specialization: Power Electronics](https://www.coursera.org/account/accomplishments/specialization/certificate/SOOKHULE6WY8) offered by University of Colorado Boulder on Coursera
-
-- [Responsible Conduct of Research for Engineers](https://www.citiprogram.org/verify/?w8ddec41f-1400-43e5-96ed-4878cc439313-63899263) offered by CITI Program
-
-- [Specialization: TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/P75L5MJP99WG) offered by DeepLearning.AI on Coursera 
-
-- [Specialization: Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/UUGC4Q7HGYRU) offered by University of Alberta on Coursera
-
-- [Fundamentals of Deep Learning](https://courses.nvidia.com/certificates/e6af57e064f84bf4994d2f22170bea54/) offered by NVIDIA
-
-- [Specialization: Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/Z2PLFDK576KV) offered by DeepLearning.AI on Coursera
-
----
-
-## Workshops {#workshops}
-
-Participated in specialized workshops on photovoltaic technologies and power system design, with emphasis on renewable integration and safety practices:  
-• Planning Residential PV-Backup Systems *(Presented by renac.de; hosted by LCEC-Lebanon, 2016)*  
-• Earthing and Lightning Protection for PV Systems *(Presented by renac.de; hosted by LCEC-Lebanon, 2016)*  
-• Building-Integrated Photovoltaic (BIPV) Solar Technology *(IRI-Lebanon, 2015)*
-
----
-
 ## Skills {#skills}
 
 **Programming & Software:** Python, MATLAB, Simulink, MATPOWER, Julia, GAMS, Gurobi, PowerWorld, LaTeX   
 **AI & Machine Learning:** PyTorch, PyTorch Geometric, TensorFlow, scikit-learn, 
 **Design Tools:** PVsyst, Helioscope, AutoCAD, DIALux  
 **High-Performance Computing (HPC):** Experience running large-scale training and simulations on HPC clusters
+
+---
+
+## Workshops {#workshops}
+
+Participated in specialized workshops on photovoltaic technologies and power system design, with emphasis on renewable integration and safety practices:  
+• Planning Residential PV-Backup Systems *(Presented by [renac.de](https://www.renac.de/); hosted by LCEC-Lebanon, 2016)*  
+• Earthing and Lightning Protection for PV Systems *(Presented by [renac.de](https://www.renac.de/); hosted by LCEC-Lebanon, 2016)*  
+• Building-Integrated Photovoltaic (BIPV) Solar Technology *(IRI-Lebanon, 2015)*
 
 ---
 
