@@ -51,7 +51,6 @@ Final Project: *Data Transmision via Visible Light Communication*.
 
 ---
 
-
 ## Teaching {#teaching}
 
 ### Lebanese American University (LAU) — Byblos Campus  
@@ -86,10 +85,12 @@ Courses taught:
 
 ### Academic and Research Experience
 
-- **Research Assistant**, American University of Beirut (AUB) *(May 2024 – August 2025)*  
+- **Research Assistant**, American University of Beirut (AUB) *(May 2024 – August 2025)*
+  Developed and trained large-scale graph neural networks for power system bad data detection using high-performance computing infrastructure.
   
 - **Graduate Research Assistant**, Lebanese American University (LAU) *(September 2019 – January 2023)*  
-
+  Conducted research on cybersecurity in power systems, state estimation, and AC optimal power flow (OPF) problems.
+  
 ---
 
 ### Corporate Experience
@@ -130,6 +131,15 @@ Participated in specialized workshops on photovoltaic technologies and power sys
 • Planning Residential PV-Backup Systems *(Presented by renac.de; hosted by LCEC-Lebanon, 2016)*  
 • Earthing and Lightning Protection for PV Systems *(Presented by renac.de; hosted by LCEC-Lebanon, 2016)*  
 • Building-Integrated Photovoltaic (BIPV) Solar Technology *(IRI-Lebanon, 2015)*
+
+---
+
+## Skills {#skills}
+
+**Programming & Software:** Python, MATLAB, Simulink, MATPOWER, Julia, GAMS, Gurobi, PowerWorld, LaTeX   
+**AI & Machine Learning:** PyTorch, PyTorch Geometric, TensorFlow, scikit-learn, 
+**Design Tools:** PVsyst, Helioscope, AutoCAD, DIALux  
+**High-Performance Computing (HPC):** Experience running large-scale training and simulations on HPC clusters
 
 ---
 
