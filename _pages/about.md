@@ -145,7 +145,7 @@ Participated in specialized workshops on photovoltaic technologies and power sys
 
 ## Languages {#languages}
 
-**Arabic** (native), **English** (fluent), **French** (fluent); **German** (B1)   
+**Arabic** (native), **English** (fluent), **French** (fluent), **German** (B1)   
 
 Fun fact: I read the original 1962 French paper on AC Optimal Power Flow, *Contribution à l'étude du dispatching économique*, to preserve nuances that can get lost in translation.   
 That curiosity later pushed me to start learning German — though I haven’t yet been brave enough to read a technical paper in it... *vielleicht* one day!  
