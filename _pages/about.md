@@ -117,49 +117,49 @@ Courses taught:
 
 - **Energy Engineer**, AC Holding, Lebanon *(March 2016 – May 2018)*  
   Designed and supervised photovoltaic (PV) systems for residential and corporate projects.  
-  Performed site inspections, technical studies, and system optimization using PVsyst, Helioscope, and AutoCAD.
+  Performed site inspections, technical studies, and system optimization using PVsyst, Helioscope, and AutoCAD.  
 
 - **Electrical Engineering Intern**, César Debbas et Fils, Lebanon *(Summer 2014)*  
   Assisted in electrical design using CAD software.  
-  Gained experience in lighting simulation and documentation.
+  Gained experience in lighting simulation and documentation.  
 
 ---
 
 ## Skills {#skills}
 
 **Programming & Software:** Python, MATLAB, Simulink, MATPOWER, Julia, GAMS, Gurobi, PowerWorld, LaTeX   
-**AI & Machine Learning:** PyTorch, PyTorch Geometric, TensorFlow, scikit-learn, 
+**AI & Machine Learning:** PyTorch, PyTorch Geometric, TensorFlow, scikit-learn   
 **Design Tools:** PVsyst, Helioscope, AutoCAD, DIALux  
-**High-Performance Computing (HPC):** Experience running large-scale training and simulations on HPC clusters
+**High-Performance Computing (HPC):** Experience running large-scale training and simulations on HPC clusters  
 
 ---
 
 ## Workshops {#workshops}
 
-Participated in specialized workshops on photovoltaic technologies and power system design, with emphasis on renewable integration and safety practices:  
-• Planning Residential PV-Backup Systems *(Presented by [renac.de](https://www.renac.de/); hosted by LCEC-Lebanon, 2016)*  
-• Earthing and Lightning Protection for PV Systems *(Presented by [renac.de](https://www.renac.de/); hosted by LCEC-Lebanon, 2016)*  
-• Building-Integrated Photovoltaic (BIPV) Solar Technology *(IRI-Lebanon, 2015)*
+Participated in specialized workshops on photovoltaic technologies and power system design, with emphasis on renewable integration and safety practices:   
+• Planning Residential PV-Backup Systems *(Presented by [renac.de](https://www.renac.de/); hosted by LCEC-Lebanon, 2016)*   
+• Earthing and Lightning Protection for PV Systems *(Presented by [renac.de](https://www.renac.de/); hosted by LCEC-Lebanon, 2016)*   
+• Building-Integrated Photovoltaic (BIPV) Solar Technology *(IRI-Lebanon, 2015)*  
 
 ---
 
 ## Languages {#languages}
 
-**Arabic, English, French (fluent); German (B1)**  
+**Arabic, English, French (fluent); German (B1)**   
 
-Fun fact: I read the original 1962 French paper on AC Optimal Power Flow, *Contribution à l'étude du dispatching économique*, to preserve nuances that can get lost in translation.  
-That curiosity later pushed me to start learning German — though I haven’t yet been brave enough to read a technical paper in it... *vielleicht* one day!
+Fun fact: I read the original 1962 French paper on AC Optimal Power Flow, *Contribution à l'étude du dispatching économique*, to preserve nuances that can get lost in translation.   
+That curiosity later pushed me to start learning German — though I haven’t yet been brave enough to read a technical paper in it... *vielleicht* one day!  
 
 ---
 
 ## Memberships {#memberships}
 
-Registered Electrical Engineer, **Order of Engineers and Architects – Beirut (OEA)** (*April 2016 – Present)*.
+Registered Electrical Engineer, **Order of Engineers and Architects – Beirut (OEA)** (*April 2016 – Present)*.  
 
 ---
 
 ## Professional Service
-Served as a peer reviewer on:
-- *IEEE Access*
-- *Electric Power Systems Research* (Elsevier)
-- *Engineering Applications of Artificial Intelligence* (Elsevier)
+Served as a peer reviewer on:  
+- *IEEE Access*  
+- *Electric Power Systems Research* (Elsevier)  
+- *Engineering Applications of Artificial Intelligence* (Elsevier)  
