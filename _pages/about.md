@@ -92,11 +92,11 @@ Courses taught:
   [Syllabus](files/ELE 402 - Electronics I Lab - Syllabus 2019.pdf) | [Sample Video Lecture](https://drive.google.com/drive/folders/1Gi1BAa47Nx_KeU_2JEoirGiMSU4dVeri?usp=sharing&hl=en)
 
 - **ELE 303 - Electrical Circuits Lab** (Fall 2018, 2019, and 2020)    
-  Covered circuit fundamentals, mesh/nodal analysis, op-amps, and filters.    
+  Thie course covers circuit fundamentals, mesh/nodal analysis, op-amps, and filters.    
   [Syllabus](files/ELE 303 - Electrical Circuits Lab - Syllabus 2018.pdf) | [Sample Video Lecture](https://drive.google.com/drive/folders/1qipiRFA7t2kl4z9gNckNidYMGpTAS4q5?usp=sharing&hl=en)
 
 - **COE 201 - Computer Proficiency** (Fall 2018 and Fall 2019)    
-  Introducing basic computer skills to freshman students.    
+  This course introduces basic computer skills to freshman students.    
   [Syllabus](files/COE 201 - Computer Proficiency - Syllabus 2019.pdf)
 
 ---
