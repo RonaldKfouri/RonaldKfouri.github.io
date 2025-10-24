@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Ronald Kfouri"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Power Systems Engineer and Researcher driven by the goal of advancing the field rather than merely joining the conversation. With experience spanning both industry and academia, I aim to explore how AI enhances power system planning, operation, and control, and how emerging technologies can reshape the future of energy systems.
+I am a Power Systems Engineer and Researcher driven by the goal of advancing the field rather than merely joining the conversation. With experience spanning both industry and academia, I aim to explore how AI enhances power system planning, operation, and control, and how emerging technologies aid the transition towards carbon-free power systems.
 
 ---
 
