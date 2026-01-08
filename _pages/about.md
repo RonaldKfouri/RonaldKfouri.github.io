@@ -163,7 +163,8 @@ Registered Electrical Engineer, **Order of Engineers and Architects – Beirut (
 ---
 
 ## Professional Service
-Served as a peer reviewer on:  
+Served as a peer reviewer on: 
+- *IEEE Transactions on Industrial Informatics*  
 - *IEEE Access*  
 - *Electric Power Systems Research* (Elsevier)  
 - *Engineering Applications of Artificial Intelligence* (Elsevier)  
