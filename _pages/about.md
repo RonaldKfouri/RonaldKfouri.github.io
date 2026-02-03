@@ -67,9 +67,9 @@ Final Project: *Data Transmision via Visible Light Communication*.
 
 - Specialization: [TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/P75L5MJP99WG) offered by DeepLearning.AI on Coursera 
 
-- [Specialization: Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/UUGC4Q7HGYRU) offered by University of Alberta on Coursera  
+- Specialization: [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/UUGC4Q7HGYRU) offered by University of Alberta on Coursera  
 
-- [Specialization: Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/Z2PLFDK576KV) offered by DeepLearning.AI on Coursera  
+- Specialization: [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/Z2PLFDK576KV) offered by DeepLearning.AI on Coursera  
 
 ---
 
