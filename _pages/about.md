@@ -24,7 +24,7 @@ I am a Power Systems Engineer and Researcher driven by the goal of advancing the
 ## Publications {#publications}
 
 - **Bad Data Detection and Identification Based on Graph Neural Network for Power System State Estimation**  
-  *Journal of Modern Power Systems and Clean Energy*, 2025.  
+  *Journal of Modern Power Systems and Clean Energy*, 2026.  
   [Paper](https://ieeexplore.ieee.org/document/11244249) | [Code](https://github.com/RonaldKfouri/GNN-BDDI-before-SE)
 
 - **An explainable AI framework for AC optimal power flow**  
