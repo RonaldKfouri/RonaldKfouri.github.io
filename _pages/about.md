@@ -47,7 +47,7 @@ I am a Power Systems Engineer and Researcher driven by the goal of advancing the
 
 ## Education {#education}
 
-**M.S. in Computer Engineering**, Lebanese American University (LAU), 2023  
+**M.S. in Computer Engineering**, Lebanese American University (LAU), 2022  
 Thesis: *A Robust Deep Learning Approach for Distribution System State Estimation with Distributed Generation*. [Institutional Repository](https://laur.lau.edu.lb:8443/xmlui/handle/10725/14595)
 
 **B.E. in Electrical Engineering**, Lebanese American University (LAU), 2015  
@@ -110,7 +110,7 @@ Courses taught:
 - **Research Assistant**, American University of Beirut (AUB) *(May 2024 – August 2025)*  
   Designed and trained large-scale graph neural networks for bad data detection prior to state estimation using high-performance computing infrastructure.
   
-- **Graduate Research Assistant**, Lebanese American University (LAU) *(September 2019 – January 2023)*  
+- **Graduate Research Assistant**, Lebanese American University (LAU) *(September 2019 – January 2024)*  
   Conducted research on cybersecurity in power systems, state estimation, and AC optimal power flow (OPF) problems.
   
 ---
@@ -130,9 +130,10 @@ Courses taught:
 ## Skills {#skills}
 
 **Programming & Software:** Python, MATLAB, Simulink, MATPOWER, Julia, GAMS, Gurobi, PowerWorld, LaTeX   
-**AI & Machine Learning:** PyTorch, PyTorch Geometric, TensorFlow, scikit-learn   
+**AI & Machine Learning:** PyTorch, PyTorch Geometric, TensorFlow, scikit-learn, SHAP, Stable-Baselines3   
+**Tools & Infrastructure:** Git, Linux, Bash, LaTeX, SLURM-based HPC clusters  
 **Design Tools:** PVsyst, Helioscope, AutoCAD, DIALux  
-**High-Performance Computing (HPC):** Experience running large-scale training and simulations on HPC clusters  
+
 
 ---
 
