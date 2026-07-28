@@ -129,7 +129,7 @@ Courses taught:
 
 ## Skills {#skills}
 
-**Programming & Software:** Python, MATLAB, Simulink, MATPOWER, Julia, GAMS, Gurobi, PowerWorld, LaTeX   
+**Programming & Software:** Python, MATLAB, Simulink, MATPOWER, Pandapower, OpenDSS, Julia, GAMS, Gurobi, CVXPY      
 **AI & Machine Learning:** PyTorch, PyTorch Geometric, TensorFlow, scikit-learn, SHAP, Stable-Baselines3   
 **Tools & Infrastructure:** Git, Linux, Bash, LaTeX, SLURM-based HPC clusters  
 **Design Tools:** PVsyst, Helioscope, AutoCAD, DIALux  
