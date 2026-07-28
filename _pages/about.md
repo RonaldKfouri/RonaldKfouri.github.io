@@ -110,7 +110,7 @@ Courses taught:
 - **Research Assistant**, American University of Beirut (AUB) *(May 2024 – August 2025)*  
   Designed and trained large-scale graph neural networks for bad data detection prior to state estimation using high-performance computing infrastructure.
   
-- **Graduate Research Assistant**, Lebanese American University (LAU) *(September 2019 – January 2024)*  
+- **Graduate Research Assistant**, Lebanese American University (LAU) *(January 2020 – January 2024)*  
   Conducted research on cybersecurity in power systems, state estimation, and AC optimal power flow (OPF) problems.
   
 ---
