@@ -135,14 +135,7 @@ Courses taught:
 **Design Tools:** PVsyst, Helioscope, AutoCAD, DIALux  
 
 
----
 
-## Workshops {#workshops}
-
-Participated in specialized workshops on photovoltaic technologies and power system design, with emphasis on renewable integration and safety practices:   
-• Planning Residential PV-Backup Systems *(Presented by [renac.de](https://www.renac.de/); hosted by LCEC-Lebanon, 2016)*   
-• Earthing and Lightning Protection for PV Systems *(Presented by [renac.de](https://www.renac.de/); hosted by LCEC-Lebanon, 2016)*   
-• Building-Integrated Photovoltaic (BIPV) Solar Technology *(IRI-Lebanon, 2015)*  
 
 ---
 
